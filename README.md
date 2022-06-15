@@ -1,3 +1,10 @@
+![GitHub followers](https://img.shields.io/github/followers/shofiq301?logo=GitHub&style=flat-square)
+![Visits Badge](https://badges.pufler.dev/visits/alifhasnain/shofiq301?style=flat-square)
+![Years Badge](https://badges.pufler.dev/years/shofiq301?style=flat-square)
+![Repos Badge](https://badges.pufler.dev/repos/shofiq301?style=flat-square)
+![Gists Badge](https://badges.pufler.dev/gists/shofiq301?style=flat-square)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/shofiq301)
+[![Md Shofiulla's StackOverflow](https://stackoverflow-badge.vercel.app/?userID=9158688)]([https://stackoverflow.com/users/8521094/alif-hasnain](https://stackoverflow.com/users/9158688/md-shofiulla))
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -25,7 +32,7 @@ I'm a Mobile app developer with kotlin and Swift. I spend most of the time learn
 - 🔭 I’m currently working on [Mobile app developer](https://iotait.tech/) 
 - 🌱 I’m currently learning [Udemy, Inc.](https://www.udemy.com/course/android-architecture-componentsmvvm-with-dagger-retrofit/?src=sac&kw=Complete+android+jetpack)
 - 👯 I’m looking to collaborate on other developer
-- :technologist: 2022 Goal: Contribute more to open source project
+- 2022 Goal: Contribute more to open source project
 - 🤔 I’m looking for help with 
 - 💬 Ask me about **Mobile app development, Data structure, Algorith, Mechine Learning** 
 - 📫 How to reach me
