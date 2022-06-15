@@ -9,7 +9,7 @@ Native android and ios developer. I spend most of the time learning new things a
 - :technologist: 2022 Goal: Contribute more to open source project
 - 🤔 I’m looking for help with 
 - 💬 Ask me about **Mobile app development, Data structure, Algorith, Mechine Learning** 
-- 📫 How to reach me: ...
+- 📫 How to reach me:
 - ⚡ Fun fact: I love riding bikes and traveling all over the world
 
 
