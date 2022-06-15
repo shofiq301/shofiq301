@@ -13,7 +13,7 @@
  </div>
 
 ## Hi there, I'm Md Shofiulla :handshake:
-I'm a Mobile app developer with kotlin and Swift. I spend most of the time learning new things and contributing to my community. 
+I'm a Mobile app developer with Java, Kotlin, and Swift programming language. I spend most of the time mastering new things and contributing to my community. 
 
 - 🔭 I’m currently working on [Mobile app developer](https://iotait.tech/) 
 - :man_student: I’m currently learning [Udemy, Inc.](https://www.udemy.com/course/android-architecture-componentsmvvm-with-dagger-retrofit/?src=sac&kw=Complete+android+jetpack)
