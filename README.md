@@ -13,15 +13,14 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 <img src="https://komarev.com/ghpvc/?username=shofiq301&style=flat-square&color=blue" alt=""/>
-
+</div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=shofiq301&style=flat-square&color=blue" alt=""/>
 </div>
 --!>
-<img src="https://komarev.com/ghpvc/?username=shofiq301&style=flat-square&color=blue" alt=""/>
 
-### Hi there, I'm Md Shofiulla :handshake:
-
-## I'm a Mobile app developer
-Native android and ios developer. I spend most of the time learning new things and contributing to my community. 
+## Hi there, I'm Md Shofiulla :handshake:
+I'm a Mobile app developer with kotlin and Swift. I spend most of the time learning new things and contributing to my community. 
 
 - 🔭 I’m currently working on [Mobile app developer](https://iotait.tech/) 
 - 🌱 I’m currently learning [Udemy, Inc.](https://www.udemy.com/course/android-architecture-componentsmvvm-with-dagger-retrofit/?src=sac&kw=Complete+android+jetpack)
@@ -31,5 +30,7 @@ Native android and ios developer. I spend most of the time learning new things a
 - 💬 Ask me about **Mobile app development, Data structure, Algorith, Mechine Learning** 
 - 📫 How to reach me
 - ⚡ Fun fact: I love riding bikes and traveling all over the world
+## My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shofiq301&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq301&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
