@@ -1,6 +1,6 @@
 ### Hi I'm Md Shofiulla 👋
 
-## I'm a Mobile app developer:
+## I'm a Mobile app developer
 Native android and ios developer. I spend most of the time learning new things and contributing to my community. 
 
 - 🔭 I’m currently working on [Mobile app developer](https://iotait.tech/) 
