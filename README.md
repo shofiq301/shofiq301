@@ -16,7 +16,7 @@
 I'm a Mobile app developer with kotlin and Swift. I spend most of the time learning new things and contributing to my community. 
 
 - 🔭 I’m currently working on [Mobile app developer](https://iotait.tech/) 
-- 🌱 I’m currently learning [Udemy, Inc.](https://www.udemy.com/course/android-architecture-componentsmvvm-with-dagger-retrofit/?src=sac&kw=Complete+android+jetpack)
+- :man_student: I’m currently learning [Udemy, Inc.](https://www.udemy.com/course/android-architecture-componentsmvvm-with-dagger-retrofit/?src=sac&kw=Complete+android+jetpack)
 - 👯 I’m looking to collaborate on other developer
 - :trophy: 2022 Goal: Contribute more to open source project
 - :man_student: I’m looking for help with other passionate developer
@@ -24,7 +24,25 @@ I'm a Mobile app developer with kotlin and Swift. I spend most of the time learn
 - 📫 How to reach me [Md Shofiulla](mailto:mdshofiqul301@gmail.com?subject=[GitHub])
 - ⚡ Fun fact: I love riding bikes and traveling all over the world
 
+<p>
+	<a href="https://www.linkedin.com/in/md-shofiulla-a992251ba/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+	<a href="https://stackoverflow.com/users/8521094/md-shofiulla" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?&style=for-the-badge&logo=Stack%20Overflow&logoColor=white" /></a>
+  <a href="https://medium.com/@shofiulladroid301" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<p/>
+
 ## My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shofiq301&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shofiq301&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Languages and Tools
+
+<code><img height="20" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/android_logo.svg"></code>
+<code><img height="20" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/kotlin-logo.png"></code>
+<code><img height="20" src="https://github.com/shofiq301/shofiq301/blob/main/assets/java_logo.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/rest2.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://github.com/alifhasnain/alifhasnain/blob/main/assets/nodejs_logo.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
