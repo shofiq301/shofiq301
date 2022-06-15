@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi I'm Md Shofiulla 👋
 
-<!--
-**shofiq301/shofiq301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Mobile app developer:
+Native android and ios developer. I spend most of the time learning new things and contributing to my community. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on [Mobile app developer](https://iotait.tech/) 
+- 🌱 I’m currently learning [Udemy, Inc.](https://www.udemy.com/course/android-architecture-componentsmvvm-with-dagger-retrofit/?src=sac&kw=Complete+android+jetpack)
+- 👯 I’m looking to collaborate on other developer
+- :technologist: 2022 Goal: Contribute more to open source project
+- 🤔 I’m looking for help with 
+- 💬 Ask me about **Mobile app development, Data structure, Algorith, Mechine Learning** 
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I love riding bikes and traveling all over the world
+
+
