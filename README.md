@@ -18,7 +18,7 @@ I'm a Mobile app developer with Java, Kotlin, and Swift programming language. I 
 - 🔭 I’m currently working on [Mobile app developer]
 - :man_student: I’m currently learning the Japanese Language and Corporate culture in [B-JET](https://bjet.org)
 - 👯 I’m looking to collaborate on other developer
-- :trophy: 2022 Goal: Contribute more to open source project
+- :trophy: 2022 Goal: Get job in Japan
 - :man_student: I’m looking for help with other passionate developer
 - 💬 Ask me about **Mobile app development, Data structure, Algorith, Mechine Learning** 
 - 📫 How to reach me [Md Shofiulla](mailto:mdshofiqul301@gmail.com?subject=[GitHub])
