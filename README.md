@@ -16,7 +16,7 @@
 I'm a Mobile app developer with Java, Kotlin, and Swift programming language. I spend most of the time mastering new things and contributing to my community. 
 
 - 🔭 I’m currently working on [Mobile app developer]
-- :man_student: I’m currently learning [Udemy, Inc.](https://www.udemy.com/course/android-architecture-componentsmvvm-with-dagger-retrofit/?src=sac&kw=Complete+android+jetpack)
+- :man_student: I’m currently learning [B-JET](https://bjet.org)
 - 👯 I’m looking to collaborate on other developer
 - :trophy: 2022 Goal: Contribute more to open source project
 - :man_student: I’m looking for help with other passionate developer
