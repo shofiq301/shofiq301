@@ -26,7 +26,6 @@ I'm a Mobile app developer with Java, Kotlin, and Swift programming language. I 
 <p>
 	<a href="https://www.linkedin.com/in/md-shofiulla-a992251ba/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 	<a href="https://stackoverflow.com/users/9158688/md-shofiulla" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?&style=for-the-badge&logo=Stack%20Overflow&logoColor=white" /></a>
-  <a href="https://medium.com/@shofiulladroid301" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <p/>
 
 ## My Stats
