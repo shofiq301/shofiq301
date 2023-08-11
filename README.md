@@ -13,13 +13,13 @@
  </div>
 
 ## Hi there, I'm Md Shofiulla :handshake:
-I'm a Mobile app developer with Java, Kotlin, and Swift programming language. I spend most of the time mastering new things and contributing to my community. 
+I'm a Mobile app developer with Java, Kotlin, and Swift programming language. I spend most of my time mastering new things and contributing to my community. 
 
 - 🔭 I’m currently working as an [Mobile app developer]
-- :man_student: I’m currently learning the Japanese Language and Corporate culture in [B-JET](https://bjet.org)
-- 👯 I’m looking to collaborate on other developer
-- :man_student: I’m looking for help with other passionate developer
-- 💬 Ask me about **Mobile app development, Data structure, Algorith, Mechine Learning** 
+- :man_student: I’m currently working as an iOS developer at [Easital Technologies Ltd](https://www.easital.com/)
+- 👯 I’m looking to collaborate with another developer
+- :man_student: I’m looking for help with another passionate developer
+- 💬 Ask me about **Mobile app development, Data structure, Algorithm, Machine Learning** 
 - 📫 How to reach me [Md Shofiulla](mailto:mdshofiqul301@gmail.com?subject=[GitHub])
 - ⚡ Fun fact: I love riding bikes and traveling all over the world
 
