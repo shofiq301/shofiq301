@@ -16,8 +16,7 @@
 I'm a Mobile app developer with Java, Kotlin, and Swift programming languages. I spend most of my time mastering new things and contributing to my community. 
 
 - 🔭 I’m currently working as an iOS developer at [Adventure Dhaka Limited](https://adventurekk.com/adventure-bangladesh/)
-- 👯 I’m looking to collaborate with another developer
-- :man_student: I’m looking for the opportunity to pursue a Master's Degree in Communication and Computer Engineering
+- :man_student: I’m looking for the opportunity to pursue a Master's Degree in Software Engineering
 - 💬 Ask me about **Mobile app development, Data structure, Algorithm, Machine Learning** 
 - 📫 How to reach me [Md Shofiulla](mailto:mdshofiqul301@gmail.com?subject=[GitHub])
 - ⚡ Fun fact: I love riding bikes and traveling all over the world
